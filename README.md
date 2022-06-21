@@ -6,7 +6,6 @@ This contains materials related to tedana and multi-echo fMRI presented at the O
 
 ## Open Science Room Session: Discussion of priorities for multi-echo fMRI methods development
 
-
 * Emergent Session: Wednesday, June 22th, 10:30-11:30 GMT+1
 * [Full Schedule for Open Science Room](https://ohbm.github.io/osr2022/schedule/)
 * [Direct Link to session](https://www.crowdcast.io/e/osr-2022--emergent-8)
@@ -36,7 +35,6 @@ Multi-echo fMRI is an acquisition method that can be used to empirically identif
 Presented by Laetitia Mwilambwe-Tshilobo
 
 [Poster](https://event.fourwaves.com/ohbm-2022/abstracts/49cc8568-445d-4bc0-98d7-04e3789ac9cb)
-
 
 ### Orthogonalization of multi-echo ICA components in motor-task fMRI analysis
 
@@ -96,7 +94,9 @@ Presented by Elizabeth Riley
 [Poster](https://event.fourwaves.com/ohbm-2022/abstracts/bf3583d9-ae87-48f0-9d65-b59cb17fb970)
 
 ### Rica - Reports for visualizing and classifying ICA components of multi-echo fMRI
+
 2087 or WTh861
+
 Presented by Cesar Caballero-Gaudes
 
 [Poster](https://event.fourwaves.com/ohbm-2022/abstracts/f20b0b52-e8a2-4a4a-b28b-5b950739f082)
