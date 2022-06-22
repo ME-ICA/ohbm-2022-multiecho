@@ -85,6 +85,14 @@ Presented by Christopher Markiewicz
 
 [Poster](https://event.fourwaves.com/ohbm-2022/abstracts/d6210508-ca94-42a6-a0ca-2d41adf57eaa)
 
+### Evaluation of physiological noise reduction using RETROICOR in accelerated ME MB fMRI data
+
+1799 or WTh573
+
+Presented by Anežka Kovářová
+
+[Poster](https://event.fourwaves.com/ohbm-2022/abstracts/86a89011-84ef-45bf-81c4-df7ae41e430d)
+
 ### The relationship between locus coeruleus activity and pupillary responses changes with age
 
 2004 or WTh778
