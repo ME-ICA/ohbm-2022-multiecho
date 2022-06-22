@@ -19,6 +19,8 @@ Multi-echo fMRI is an acquisition method that can be used to empirically identif
 
  This is a place to centralize multi-echo related content at OHBM 2022. If you see or have a poster or presentation using multi-echo fMRI, submit a pull request or [comment on issue #1](https://github.com/ME-ICA/ohbm-2022-multiecho/issues/1) to have it added.
 
+**Note:** The links to the posters on fourwaves only work if you are registered for OHBM and logged into your fourwaves account. If there are open versions of these posters, let us know so that we can include those links.
+
 ### Tedana+: Multi-echo fMRI and related open tools
 
 1712 or WTh486
@@ -116,3 +118,19 @@ Presented by Cesar Caballero-Gaudes
 Presented by Helmut Strey
 
 [Poster](https://event.fourwaves.com/ohbm-2022/abstracts/4550d6f2-50c2-4233-b2e8-352f7ec28fea)
+
+### Dense mapping reveals disconnect between resting state fMRI metrics and cerebrovascular physiology
+
+2422 or WTh1066
+
+Presented by Stefano Moia
+
+[Poster](https://event.fourwaves.com/ohbm-2022/abstracts/4593c31b-e4c8-48f5-9fe3-3e8e95305773)
+
+### Clustering of breathhold fMRI BOLD responses reveals physiologically-driven functional-like networks
+
+2423 or WTh1067
+
+Presented by Stefano Moia
+
+[Poster](https://event.fourwaves.com/ohbm-2022/abstracts/bad3a8fc-cc1a-489b-b801-10685f2cf112)
